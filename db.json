@@ -1,0 +1,274 @@
+{
+  "product": [
+    {
+      "name": "Camera",
+      "price": "4000",
+      "color": "black",
+      "category": "plastic",
+      "brand": "nokia",
+      "photo": "camera.jpeg",
+      "id": 1
+    },
+    {
+      "name": "shoes",
+      "price": "4000",
+      "color": "black",
+      "category": "formal",
+      "brand": "redhood",
+      "photo": "shoes2.jpeg",
+      "id": 2
+    },
+    {
+      "name": "sunglass",
+      "price": "1000",
+      "color": "black",
+      "category": "glass",
+      "brand": "rayban",
+      "photo": "sunglass2.jpeg",
+      "id": 3
+    },
+    {
+      "name": "shoes",
+      "price": "1000",
+      "color": "red",
+      "category": "clothes",
+      "brand": "adidas",
+      "photo": "shoes4.jpeg",
+      "id": 4
+    },
+    {
+      "name": "purse",
+      "price": "3000",
+      "color": "gray",
+      "category": "ladies",
+      "brand": "top",
+      "photo": "purse.jpeg",
+      "id": 5
+    },
+    {
+      "name": "Camera",
+      "price": "3000",
+      "color": "blue",
+      "category": "plastic",
+      "brand": "nokia",
+      "photo": "camera4.jpeg",
+      "id": 6
+    },
+    {
+      "name": "wine",
+      "price": "10000",
+      "color": "mix green",
+      "category": "Rose's white",
+      "brand": "penfolds",
+      "photo": "wine3.jpeg",
+      "id": 7
+    },
+    {
+      "name": "watch",
+      "price": "1000",
+      "color": "gray",
+      "category": "wall watch",
+      "brand": "........",
+      "photo": "watch.jpeg",
+      "id": 8
+    },
+    {
+      "name": "shoes",
+      "price": "4000",
+      "color": "white mix",
+      "category": "clothes",
+      "brand": "adidas",
+      "photo": "shoes.jpeg",
+      "id": 9
+    },
+    {
+      "name": "combo set",
+      "price": "3000",
+      "color": ".....",
+      "category": "formal",
+      "brand": "mix.....",
+      "photo": "combo.jpeg",
+      "id": 10
+    },
+    {
+      "name": "attractive set",
+      "price": "6000",
+      "color": "......",
+      "category": "departmental",
+      "brand": "............",
+      "photo": "attractive.jpeg",
+      "id": 11
+    },
+    {
+      "name": "home set",
+      "price": "10000",
+      "color": "mix...",
+      "category": "alll....",
+      "brand": "/..............",
+      "photo": "home.jpeg",
+      "id": 12
+    },
+    {
+      "name": "Camera",
+      "price": "4000",
+      "color": "black",
+      "category": "plastic",
+      "brand": "nokia",
+      "photo": "camera.jpeg",
+      "id": 13
+    },
+    {
+      "name": "shoes",
+      "price": "4000",
+      "color": "black",
+      "category": "formal",
+      "brand": "redhood",
+      "photo": "shoes2.jpeg",
+      "id": 14
+    },
+    {
+      "name": "sunglass",
+      "price": "1000",
+      "color": "black",
+      "category": "glass",
+      "brand": "rayban",
+      "photo": "sunglass2.jpeg",
+      "id": 15
+    },
+    {
+      "name": "shoes",
+      "price": "1000",
+      "color": "red",
+      "category": "clothes",
+      "brand": "adidas",
+      "photo": "shoes4.jpeg",
+      "id": 16
+    },
+    {
+      "name": "bag",
+      "price": "1000",
+      "color": "gray",
+      "category": "leather",
+      "brand": "top",
+      "photo": "bag1.jpeg",
+      "id": 17
+    },
+    {
+      "name": "wine",
+      "price": "3000",
+      "color": "............",
+      "category": "white roses",
+      "brand": "penfolds",
+      "photo": "wine.jpeg",
+      "id": 18
+    },
+    {
+      "name": "watch",
+      "price": "3000",
+      "color": "mix black",
+      "category": "hand watch",
+      "brand": "cartier",
+      "photo": "watch2.jpeg",
+      "id": 19
+    },
+    {
+      "name": "sopha ",
+      "price": "6000",
+      "color": "dark gray",
+      "category": "clothes",
+      "brand": "..........",
+      "photo": "sopha.jpeg",
+      "id": 20
+    },
+    {
+      "name": "purse",
+      "price": "3000",
+      "color": "gray",
+      "category": "ladies",
+      "brand": "top",
+      "photo": "purse.jpeg",
+      "id": 21
+    },
+    {
+      "name": "Camera",
+      "price": "3000",
+      "color": "blue",
+      "category": "plastic",
+      "brand": "nokia",
+      "photo": "camera4.jpeg",
+      "id": 22
+    },
+    {
+      "name": "wine",
+      "price": "10000",
+      "color": "mix green",
+      "category": "Rose's white",
+      "brand": "penfolds",
+      "photo": "wine3.jpeg",
+      "id": 23
+    },
+    {
+      "name": "watch",
+      "price": "1000",
+      "color": "gray",
+      "category": "wall watch",
+      "brand": "........",
+      "photo": "watch.jpeg",
+      "id": 24
+    },
+    {
+      "name": "Camera",
+      "price": "10000",
+      "color": "black",
+      "category": "glass",
+      "brand": "samsung",
+      "photo": "camera3.jpeg",
+      "id": 25
+    },
+    {
+      "name": "box",
+      "price": "1000",
+      "color": "white",
+      "category": "normal",
+      "brand": "........?",
+      "photo": "box.jpeg",
+      "id": 26
+    },
+    {
+      "name": "Lriam",
+      "price": "10",
+      "color": "...........?",
+      "category": "perfume",
+      "brand": "Gucci",
+      "photo": "purfume.jpeg",
+      "id": 27
+    },
+    {
+      "name": "jeweller",
+      "price": "1000",
+      "color": "silver",
+      "category": "white gold",
+      "brand": ">>>>>>>>>>>>>>>>>",
+      "photo": "necles.jpeg",
+      "id": 28
+    }
+  ],
+  "register": [
+    {
+      "first_name": "Yashi",
+      "last_name": "Srivastava",
+      "email": "Yashi@gmail.com",
+      "password": "123456",
+      "confirm_password": "123456",
+      "id": "1"
+    },
+    {
+      "first_name": "aman",
+      "last_name": "sharma",
+      "email": "Aman@gmail.com",
+      "password": "888888",
+      "confirm_password": "888888",
+      "id": "2"
+    }
+  ]
+}
