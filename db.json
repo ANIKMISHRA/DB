@@ -251,6 +251,15 @@
       "brand": ">>>>>>>>>>>>>>>>>",
       "photo": "necles.jpeg",
       "id": 28
+    },
+    {
+      "name": "car toy",
+      "price": "500",
+      "color": "grey",
+      "category": "Racing",
+      "brand": "BMW",
+      "photo": "toy.jpeg",
+      "id": 29
     }
   ],
   "register": [
